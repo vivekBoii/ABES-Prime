@@ -1,7 +1,0 @@
-Sai mere bhai 
-git init
-git add , or filename
-git commit -m""
-git push
-git remote origin
-
