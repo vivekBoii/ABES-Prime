@@ -3,13 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Study Tracker</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        #calendar { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; }
+        .day { padding: 10px; border: 1px solid #ccc; cursor: pointer; }
+        .logged { background-color: lightgreen; }
+    </style>
 </head>
 <body>
-    <div id="d1">
-        <p>Hello</p>
-    </div>
+    <h1>Study Tracker</h1>
+    <h2>Select a date and log study hours</h2>
+    <input type="date" id="datePicker">
+    <input type="number" id="hours" placeholder="Hours studied">
+    <button onclick="logStudy()">Log Hours</button>
+    <h3>Total Hours: <span id="totalHours">0</span></h3>
+    <div id="calendar"></div>
+    <button onclick="exportData()">Export Data</button>
+    <input type="file" id="fileInput" accept=".json" onchange="importData(event)">
+    <script>
+        let studyLog = JSON.parse(localStorage.getItem('studyLog')) || {};
+
+        function logStudy() {
+            const date = document.getElementById('datePicker').value;
+            const hours = parseInt(document.getElementById('hours').value) || 0;
+            if (date && hours > 0) {
+                studyLog[date] = (studyLog[date] || 0) + hours;
+                localStorage.setItem('studyLog', JSON.stringify(studyLog));
+                updateCalendar();
+            }
+        }
+
+        function updateCalendar() {
+            document.getElementById('calendar').innerHTML = '';
+            let totalHours = 0;
+            for (let date in studyLog) {
+                totalHours += studyLog[date];
+                let day = document.createElement('div');
+                day.className = 'day logged';
+                day.innerText = `${date}: ${studyLog[date]} hrs`;
+                document.getElementById('calendar').appendChild(day);
+            }
+            document.getElementById('totalHours').innerText = totalHours;
+        }
+
+        function exportData() {
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(studyLog));
+            const downloadAnchor = document.createElement('a');
+            downloadAnchor.setAttribute("href", dataStr);
+            downloadAnchor.setAttribute("download", "study_log.json");
+            document.body.appendChild(downloadAnchor);
+            downloadAnchor.click();
+            document.body.removeChild(downloadAnchor);
+        }
+
+        function importData(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                studyLog = JSON.parse(e.target.result);
+                localStorage.setItem('studyLog', JSON.stringify(studyLog));
+                updateCalendar();
+            };
+            reader.readAsText(file);
+        }
+
+        updateCalendar();
+    </script>
 </body>
-<script src="script.js"></script>
 </html>
