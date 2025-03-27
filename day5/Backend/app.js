@@ -13,7 +13,8 @@ app.get("/users", (req, res) => {
 });
 
 app.post("/users", (req, res) => {
-  var users = fs.readFileSync("users.json", "utf-8");
+  var users = JSON.parse(fs.readFileSync("users.json", "utf-8"));
+  console.log(users);
   const userId = users.length > 0 ? users[users.length - 1].id + 1 : 1;
   users.push({ ...req.body, id: userId });
   fs.writeFileSync("users.json", JSON.stringify(users,null,2));
