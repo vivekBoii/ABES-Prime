@@ -1,7 +1,22 @@
 [
   {
     "name": "badmashi",
-    "password": "full chalegi",
+    "age": "53",
     "id": 1
+  },
+  {
+    "name": "ramu",
+    "age": 56,
+    "id": 2
+  },
+  {
+    "name": "ramu",
+    "age": 56,
+    "id": 3
+  },
+  {
+    "name": "ramu",
+    "age": 56,
+    "id": 4
   }
 ]

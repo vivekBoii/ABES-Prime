@@ -20,6 +20,21 @@ app.post("/users", (req, res) => {
   res.send("User added successfully");
 });
 
+app.put("/users/:id", (req, res) => {  
+  var users = JSON.parse(fs.readFileSync("users.json", "utf-8"));
+  const id = req.params.id;
+  const{ name, age } = req.body;
+  const index = users.findIndex((user) => user.id == id);
+  if(index !== -1){
+    users[index] = { ...users[index], name, age };
+    fs.writeFileSync("users.json", JSON.stringify(users,null,2));
+    res.send("User updated successfully");
+  }
+  else{
+    res.send("User not found");
+  }
+});
+
 app.listen(9001, () => {
   console.log("Server is running on http://localhost:9001");
 });
