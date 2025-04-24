@@ -1,0 +1,382 @@
+// File: temp.js
+Maths(विनायक बैच)
+Combined Pdf
+https://appxcontent.kaxa.in/paid_course4/2024-05-30-0.18662010144616348.pdf
+
+Number System
+
+https://appx-recordings-mcdn.akamai.net.in/drm/5a128f5d-ae01-4d18-9618-cb7ad21f9891/720p/drm-hls/master-4648908.732437804.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/670b2da1-93eb-4478-864c-75e62d465f75/720p/drm-hls/master-4043802.7016710667.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/b8d94520-0ed9-4624-bbae-82a1a25d20da/720p/drm-hls/master-8306268.28166267.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/ab7758ad-f30c-4573-ad7a-11d66b38acdb/720p/drm-hls/master-3135962.3458921383.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/d83bc39c-dfee-437b-9054-6870e5418fed/720p/drm-hls/master-6934565.078272086.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/4da3c28c-6ab3-4cd6-a2a1-bb48c781532c/720p/drm-hls/master-8925304.714291366.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/39336b30-f008-4d0d-a0ac-76db1b5faa7c/720p/drm-hls/master-6933128.384270593.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/1606a4fe-f615-4ccc-995c-9cab04cda923/720p/drm-hls/master-3671085.0115846894.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/7f5fe6a6-dd1d-49e3-95ae-25a7f5f6d841/720p/drm-hls/master-4951044.746099371.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/2d053941-ca0f-48c6-af95-b7357c200a45/720p/drm-hls/master-6991884.891807059.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/3a917177-2349-4305-a198-c9fd6d5c2560/720p/drm-hls/master-5419576.421484353.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/f3b4ea20-32ab-4d10-adda-dcfa6e34b3ab/720p/drm-hls/master-1217680.680562454.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/20a5bdd5-5f11-44f5-8e5c-4db0dc908bef/720p/drm-hls/master-7150200.175612331.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/1b4be4e9-93ca-496e-a882-85af0171471e/720p/drm-hls/master-8267641.809683166.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/4c6f5630-c99a-4af4-965c-2d02df153055/720p/drm-hls/master-6719458.982905977.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/8b71d318-ec0b-4590-af0c-7c49ab800bc7/720p/drm-hls/master-9483785.782907091.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/847f5bb6-67ca-41db-9eca-098dac458c0c/720p/drm-hls/master-5061995.084339075.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/44cd05d9-ba46-437b-a3e5-d238abd718a6/720p/drm-hls/master-1692985.1298763875.m3u8.m3u8
+
+LCM & HCF
+
+https://appx-recordings-mcdn.akamai.net.in/drm/87344cf9-d452-47b1-a842-80946ce42585/720p/drm-hls/master-7712407.795477672.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/0942388d-4c59-483c-be0b-3598a98522b8/720p/drm-hls/master-6778828.769646917.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/b9834540-1b6f-4715-843a-9e7935ba3c3d/720p/drm-hls/master-4829701.68806357.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/d6ea35ca-2684-44aa-94fd-86bf944733d2/720p/drm-hls/master-1927313.2279773343.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/fabaa9ce-e248-4411-ac66-8b581270cac2/720p/drm-hls/master-3102578.115122172.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/31befada-9cfb-4f13-886b-1682dfad4ee5/720p/drm-hls/master-5225622.340715348.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/1e9ed1c2-00b8-4c7a-a133-c6f9bbcdaa25/720p/drm-hls/master-7190045.400778522.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/28a93c94-4176-4d4e-97e8-3a59daa7cd5f/720p/drm-hls/master-9876620.758792015.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/dbc73c78-698b-4e4c-bbca-c1e351b56c8b/720p/drm-hls/master-145730.39179264003.m3u8.m3u8
+
+
+Ratio & Proportion
+
+https://appx-recordings-mcdn.akamai.net.in/drm/361d9b82-a0cd-4444-85cb-311e67bb5ffb/720p/drm-hls/master-1396321.1754754968.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/0273987f-8977-4d64-99da-ed415cfeaf92/720p/drm-hls/master-9856325.25309735.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/f4f638bf-29bc-4e91-ac0b-12491be44a6b/720p/drm-hls/master-9727564.870675685.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/eff7dc70-71d9-4596-ba0a-3a30a89b47b2/720p/drm-hls/master-3515120.1727306168.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/19316dc4-927a-48ac-bc57-399742240045/720p/drm-hls/master-7339611.552378278.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/ac1e7c9a-f4ca-4be1-974a-028d59bf0bde/720p/drm-hls/master-4059511.0699544423.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/f0272a29-c831-4e75-a4eb-fc992afee4da/720p/drm-hls/master-4331174.423037694.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/e0aae05e-fcd7-4d7e-9742-0c0135a6d5a0/720p/drm-hls/master-8484425.420042986.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/b6d9a6e5-501f-4666-b158-41bad40dae8d/720p/drm-hls/master-2313635.423143896.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/c462e580-bd79-4a72-b5af-76daab215266/720p/drm-hls/master-4273524.506941351.m3u8.m3u8
+
+
+Partnership
+
+https://appx-recordings-mcdn.akamai.net.in/drm/025df34e-2017-482c-b190-155a92f16eb7/720p/drm-hls/master-8494712.751539707.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/355dadce-c465-404b-94da-c2ef591b1999/720p/drm-hls/master-4937763.917611151.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/c8059d92-e248-451a-8b61-97834051b552/720p/drm-hls/master-844477.2178200788.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/bfc05dd5-2ba7-4344-8b91-d74f03ba4f9e/720p/drm-hls/master-1870782.6840906749.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/5e00ba33-217c-4670-bbd2-c4d026db7238/720p/drm-hls/master-4345146.358914476.m3u8.m3u8
+
+
+प्रतिशत Percentage
+
+https://appx-recordings-mcdn.akamai.net.in/drm/30218dae-77a1-4cda-9e34-a5e9e68182cc/720p/drm-hls/master-6859160.561082449.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/e0984ecb-0fcf-4d8a-98ac-dc3961ebb527/720p/drm-hls/master-3554888.702548027.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/2c538206-59e7-4ad9-ad6e-c0573dde8256/720p/drm-hls/master-5032560.038310599.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/65604-1700534822/hls/720p/master-9429667.851756303.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/8ee6d047-af5f-4f33-a849-87b6671ecfef/720p/drm-hls/master-6528096.335980269.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/drm/1d9d858a-655c-47d9-a3af-b9287ae2b93e/720p/drm-hls/master-4586793.766967541.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/71709-1701053404/hls/720p/master-123088.04000121354.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/73838-1701139798/hls/720p/master-331263.0467495747.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/76040-1701226102/hls/720p/master-4954157.698811856.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/79023-1701312483/hls/720p/master-8690743.710893964.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/81680-1701398639/hls/720p/master-5710652.6878293855.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/83985-1701486413/hls/720p/master-7168748.6804492.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/89179-1701744531/hls/720p/master-6069288.704342337.m3u8.m3u8
+
+
+Profit and loss
+
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/91427-1701830522/hls/720p/master-7847883.336928798.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/408736-1702186660/hls/720p/master-666908.8094526377.m3u8.m3u8
+https://appx-recordings-mcdn.akamai.net.in/videos/rozgar-data/411112-1702188144/hls/720p/master-5017225.920956488.m3u8.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/413324-1702448331/hls/720p/master-4675863.285518842.m3u8.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/416400-1702447612/hls/720p/master-9271161.799842872.m3u8.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/418798-1702448813/hls/720p/master-7011217.937569894.m3u8.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/421090-1702449978/hls/720p/master-8194215.00929165.m3u8.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/425852-1702608421/hls/720p/master-5413779.4249014305.m3u8.m3u8
+
+
+Discount (बट्टा)
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/428127-1702694580/hls/720p/master-9694915.506046638.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/431196-1702867596/hls/720p/master-6784838.61532502.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/433766-1702953873/hls/720p/master-3264278.896472237.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/436031-1703040341/hls/720p/master-4224356.053502469.m3u8
+
+
+Miscellaneous(UPSI PREVIOUS YEAR QUESTION) Profit & Loss/Discount
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/438525-1703126643/hls/720p/master-9346709.796788298.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/440987-1703213105/hls/720p/master-5367422.901607444.m3u8
+
+
+Simple Interest (साधारण ब्याज).
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/443230-1703299534/hls/720p/master-4882074.33354368.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/446076-1703472147/hls/720p/master-8464414.95615499.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/451200-1703645030/hls-059fa0/720p/master-927505.2044858434.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/586826-1703739209/hls-0a0b42/720p/master-4448586.2707481915.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/460904-1703817890/hls-1cc7ea/720p/master-1193338.9611046996.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/464196-1703904355/hls-8daf2c/720p/master-3244620.977347024.m3u8
+
+
+Compound Interest
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/468053-1704077024/hls-a7cc1a/720p/master-3947963.334396796.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/469597-1704163438/hls-662c05/720p/master-2178508.794995928.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/474334-1704336115/hls-670ddc/720p/master-217417.34690289284.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/480128-1704509760/hls-b7cc78/720p/master-9607594.124913882.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/482227-1704596778/hls-c6c620/720p/master-1139593.21855998.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/482989-1704690622/hls-9aab69/720p/master-6419336.198147896.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/485464-1704768238/hls-3b419d/720p/master-5827120.062316326.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/490766-1704941266/hls-e06d6b/720p/master-3014246.7742552804.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/494127-1705027665/hls-6e69b2/720p/master-5643545.4348178785.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/502550-1705373421/hls-50eb69/720p/master-2435316.4338264423.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/505248-1705459643/hls-c63211/720p/master-2099229.297144616.m3u8
+
+
+Time & Distance
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/507801-1705545499/hls-fb299f/720p/master-244558.12873415806.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/510485-1705641633/hls-fe2b70/720p/master-3577425.055612382.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/513604-1705718870/hls-2c6636/720p/master-2423386.06808699.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/515858-1705807251/hls-5880a8/720p/master-6023164.853120722.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/516589-1705891671/hls-31a131/720p/master-7576703.683765376.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/518407-1705978070/hls-dcc79c/720p/master-3766614.3121775854.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/521448-1706064541/hls-2387f4/720p/master-5026766.142535273.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/524055-1706150946/hls-e73a68/720p/master-6973848.325507443.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/526971-1706264470/hls-bbc92d/720p/master-4117164.9215866714.m3u8
+
+
+Train (रेलगाड़ी)
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/528474-1706323231/hls-bcf716/720p/master-9318943.845648587.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/531552-1706496397/hls-39dd3e/720p/master-3113777.177678836.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/534133-1706582974/hls-73eede/720p/master-2254591.8794120247.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/536456-1706669196/hls-fb7d39/720p/master-9646696.126814188.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/542226-1706841457/hls-85f68e/720p/master-699158.4972970877.m3u8
+
+
+Race (दौड़)
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/548046-1707101440/hls-2fbe06/720p/master-716882.0279955379.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/553506-1707273883/hls-98f1c4/720p/master-9148100.846273659.m3u8
+
+
+Boat and stream नाव और धारा
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/556149-1707360564/hls-2ae7ea/720p/master-7400722.849394856.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/558926-1707447136/hls-0e9e98/720p/master-2464953.729174051.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/568146-1707792667/hls-c2d291/720p/master-3955065.6280409703.m3u8
+
+
+Boat and stream + Miscellaneous
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/570881-1707894727/hls-ce57e0/720p/master-6001431.689718584.m3u8
+
+Miscellaneous
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/573334-1707965447/hls-8a9754/720p/master-3934876.41373703.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/581524-1708311172/hls-494f9e/720p/master-4748619.198343294.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/586923-1708484333/hls-982309/720p/master-3252336.510784808.m3u8
+
+
+Time and Work
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/589641-1708570914/hls-0c0326/720p/master-8700460.374033652.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/598247-1708915437/hls-5e7c6e/720p/master-1241018.658728179.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/600780-1709003634/hls-552f08/720p/master-718264.5367500396.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/603610-1709090576/hls-0a5b23/720p/master-9423234.186890839.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/611443-1709349132/hls-5a02de/720p/master-6515653.367952539.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/613606-1709435381/hls-b00e3c/720p/master-1356078.1591122039.m3u8
+
+
+Pipe and Cistern
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/614829-1709521422/hls-220096/720p/master-626897.07864374.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/617514-1709607757/hls-44ce50/720p/master-6467513.507297413.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/620433-1709693979/hls-feb8a3/720p/master-1839478.9033053892.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/623181-1709781092/hls-563f5e/720p/master-4290317.023463288.m3u8
+
+
+Mixture and Alligation
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/626370-1709866415/hls-88a80f/720p/master-2628326.298392336.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/628629-1709952813/hls-1a7ef6/720p/master-4176820.0710395374.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/632131-1710125619/hls-ca0024/720p/master-3571618.1011438584.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/638032-1710298600/hls-372279/720p/master-1281351.8526155753.m3u8
+
+
+Mensuration
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/647466-1710557618/hls-e4e53c/720p/master-6457315.2003570385.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/656014-1710838059/hls-9969f1/720p/master-2462575.519989374.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/707306-1712583817/hls-78c38c/720p/master-8578309.47432267.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/710606-1712670398/hls-930c90/720p/master-3680692.4118530103.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/714223-1712756627/hls-eeb50d/720p/master-1325281.5336157875.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/717010-1712843355/hls-c0fd06/720p/master-6730918.730325986.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/727550-1713189131/hls-bc4c40/720p/master-1619626.4470319964.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/720249-1712929595/hls-e9a956/720p/master-205839.67378788427.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/733596-1713360722/hls-0bc9c3/720p/master-2647484.492336074.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/730785-1713275355/hls-e13811/720p/master-3722376.797950866.m3u8
+
+
+Polygon
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/739442-1713533112/hls-b7083c/720p/master-3008180.2177366423.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/746428-1713793030/hls-484252/720p/master-7398741.425756615.m3u8
+
+
+
+Mensuration 3D
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/754366-1714026495/hls-3c2658/720p/master-6341818.718891672.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/752909-1713967101/hls-175981/720p/master-6720641.387214091.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/756196-1714051883/hls-2e78e2/720p/master-2451121.1622952665.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/758893-1714138817/hls-9e0c08/720p/master-4202520.131975236.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/766072-1714398562/hls-3a79b0/720p/master-7158537.546108899.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/770367-1714493416/hls-8070fd/720p/master-2109428.082714664.m3u8
+
+
+
+Mensuration 3D (Marathon)
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/778342-1714662621/hls-211ba2/720p/master-4631286.303332709.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/781943-1714745233/hls-e0f990/720p/master-7318338.791237742.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/785041-1714830377/hls-55ad37/720p/master-548704.7554569435.m3u8
+
+
+Average #
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/789355-1715003188/hls-d27577/720p/master-3124316.4977615345.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/793406-1715089758/hls-1c4296/720p/master-1968454.0761587988.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/796963-1715176155/hls-62088b/720p/master-3925855.5774938664.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/801009-1715262026/hls-306a52/720p/master-9012436.105186408.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/804469-1715348415/hls-31db50/720p/master-9453984.03552472.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/812162-1715608522/hls-76b7cc/720p/master-8535925.165792204.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/819554-1715781144/hls-e4824d/720p/master-5890337.865322486.m3u8
+
+
+Simplification (सरलीकरण)
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/823351-1715867187/hls-641001/720p/master-5115714.0156697305.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/826683-1715952695/hls-e2ac81/720p/master-7663197.775279042.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/834989-1716212435/hls-cbb507/720p/master-6902843.445461541.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/838415-1716298634/hls-3e37ab/720p/master-6981143.841032882.m3u8
+
+
+Data Interpretation
+
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/854991-1716787704/hls-565395/720p/master-6617901.491088667.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/858657-1716872293/hls-164f1d/720p/master-331833.13126277534.m3u8
+https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/862442-1716957082/hls-3f44f4/720p/master-2022158.1385488973.m3u8
+
+
+
+
+Hindi (विनायक बैच)
+
+
+
+
+
+
+
+History(विनायक बैच)
+
+
+
+
+
+
+
+Reasoning(विनायक बैच)
+
+
+
+
+
+
+
+Economics(विनायक बैच)
+
+
+
+
+
+
+
+Physics(विनायक बैच)
+
+
+
+
+
+
+
+Polity(विनायक बैच)
+
+
+
+
+
+
+
+Biology (विनायक बैच)
+
+
+
+
+
+
+
+Geography (विनायक बैच)
+
+
+
+
+
+
+
+Chemistry (विनायक बैच)
+
+
+
+
+
+
+
+Static GK (विनायक बैच)
+
+
+
+
+
+
+
+UP G.K (खाकी 2.0 बैच)
+
+
+
+
+
+
+
+मूलविधि (विनायक बैच)
+
+
+
+
+
+
+
+Static GK (रफ़्तार बैच)
+
+
+
+
+
+
+
+Super 30 Classes By Sandeep Sir
+
+
+
+
+
+
+
+Current Affairs (आदर्श सर )
